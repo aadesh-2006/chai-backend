@@ -1,3 +1,4 @@
+import mongoose from "mongoose";
 import mongooese, {Schema} from 'mongoose';
 import jwt from "jsonwebtoken";
 import bcrypt from "bcrypt";
